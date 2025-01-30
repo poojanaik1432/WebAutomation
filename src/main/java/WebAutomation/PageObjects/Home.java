@@ -42,5 +42,7 @@ public class Home {
 	public List<WebElement> getSuggestionsList() {
 		return suggestionsContainer.findElements(By.xpath("//*[contains(@class,'s-suggestion s-suggestion')]"));
 	}
+	
+	
 
 }
