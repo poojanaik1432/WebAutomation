@@ -11,11 +11,4 @@ Follow step-by-step instructions for installing and setting up the project. Incl
 Clone the repository:
 git clone https://github.com/poojanaik1432/WebAutomation
 
-Change to the project directory:
-cd your-repo
-
-Build the project
-mvn clean
-
-Running Tests
-mvn test
+Run the SuiteRun.xml file from src\test\resources\WebAutomation\TestSuit
